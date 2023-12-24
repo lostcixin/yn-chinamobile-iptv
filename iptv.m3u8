@@ -37,15 +37,13 @@ http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226317/index.m3u8
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226037/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://epg.112114.eu.org/logo/云南卫视.png",云南卫视
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225821/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视-2" tvg-logo="https://epg.112114.eu.org/logo/云南卫视.png",云南卫视-2
+#EXTINF:-1 tvg-name="云南都市" tvg-logo="https://epg.112114.eu.org/logo/YUNNAN1.png",云南都市
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225819/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视-3" tvg-logo="https://epg.112114.eu.org/logo/云南卫视.png",云南卫视-3
+#EXTINF:-1 tvg-name="云南娱乐" tvg-logo="https://epg.112114.eu.org/logo/YUNNAN2.png",云南娱乐
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225813/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视-4" tvg-logo="https://epg.112114.eu.org/logo/云南卫视.png",云南卫视-4
-http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225919/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视-5" tvg-logo="https://epg.112114.eu.org/logo/云南卫视.png",云南卫视-5
+#EXTINF:-1 tvg-name="云南影视" tvg-logo="https://epg.112114.eu.org/logo/YUNNAN7.png",云南影视
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225811/index.m3u8
-#EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://epg.112114.eu.org/logo/云南卫视.png",云南少儿
+#EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://epg.112114.eu.org/logo/YUNNAN4.png",云南少儿
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225867/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.112114.eu.org/logo/浙江卫视.png",浙江卫视
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225853/index.m3u8
